@@ -1,4 +1,4 @@
-FROM python:3.13   # ❌ broken / risky base image
+FROM python:3.9   # Using a stable base image
 
 WORKDIR /app
 
