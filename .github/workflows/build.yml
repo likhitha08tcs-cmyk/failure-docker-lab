@@ -1,4 +1,4 @@
-name: CI
+Dockerfile is required for building the image.name: CI
 
 on: [push]
 
